@@ -6125,8 +6125,8 @@ export const allProjects: Array<Project> = [
   },
   {
     id: "8216b0e1-7743-47cd-a2f3-bc0b3ef2f989",
-    name: "VASP",
-    shortName: "vasp",
+    name: "Vasp",
+    shortName: "Vasp",
     description: "Send crypto through a link — supports batch sending for airdrops, giveaways, and P2P transfers without needing addresses. Features optional password and expiry settings, auto-refund on unclaimed funds, token swapping, and supports STRK and any Starknet token.",
     tags: ["payments", "defi", "wallet"],
     image: "vasp-logo.jpeg",
